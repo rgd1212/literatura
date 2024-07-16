@@ -1,6 +1,8 @@
-Configuración del Proyecto Configuración del Ambiente Java: Asegúrate de tener Java 11 o superior instalado en tu sistema.
+#Challengue de Literatua
 
-Creación del Proyecto: Clona el repositorio y abre el proyecto en tu IDE favorito (IntelliJ, Eclipse, etc.).
+Asegúrate de tener Java 11 o superior instalado en tu sistema.
+
+Clona el repositorio y abre el proyecto en tu IDE favorito (IntelliJ, Eclipse, etc.).
 
 Consumo de la API: Utiliza la URL base https://gutendex.com/books/ para realizar solicitudes a la API de libros.
 
